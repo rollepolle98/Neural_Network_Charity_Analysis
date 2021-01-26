@@ -45,3 +45,4 @@ My goal is to :
     
  ## Summary and Conclusion
  
+WE learned in this deep learning model that by adding extra layers and using different activation functions that we can get the accuracy of the model above seventy-five percent which in turn means that accurately identify the test points. Im not sure exactly what model/ algorithm would make this more accurate, either a random forest algorithm or a SVM (Support Vector Machine) but it needs a hyperparameter search to determine the best learning parameters.
