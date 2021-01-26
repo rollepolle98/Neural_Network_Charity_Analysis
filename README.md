@@ -36,7 +36,7 @@ My goal is to :
     
   * Were you able to achieve the target model performance?
   
-    * Yes i was able to achieve target model performance
+    * Yes i was able to achieve target model performance (78.6%)
   
   * What steps did you take to try and increase model performance?
   
